@@ -10,6 +10,7 @@
 #include "Metrics"
 #include "TerrainMeshLayer"
 
+#include <osg/GL>
 #include <osg/Texture2D>
 #include <osg/Texture2DArray>
 
